@@ -1,0 +1,2 @@
+# AutoMessging
+This a user-friendly Application to send a short preset notification message about the current status of the receiver automatically to the caller whenever the receiver is unable to receive the call. Also, the user can have an opportunity to customize the preset message as per his/her requirement. He can set a condition after how many missed calls the system will send a message to the caller
